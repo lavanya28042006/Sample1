@@ -1,1 +1,2 @@
 welcome to GitHub 
+saved into ex3.txt file
